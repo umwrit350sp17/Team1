@@ -7,14 +7,16 @@ Submitted on March 5, 2017 by Lauren Anderson, Katrina Dickerson, and Jessica Bu
 ## Team Accomplishments: 
 
 * Created teamdocs folder and team respository.
+* Created Team Charter and Progress Report 1
+* Updated ReadMe to include a project pitch
 
 ## Unfinished Tasks: 
 
-List things you were supposed to have finished but didn't.
+*All tasks completed
 
 ## Schedule Revisions: 
 
-Describe any changes that have been made to your Project Schedule. 
+*No revisions have been scheduled at this time
 
 ## Group Problems: 
 
