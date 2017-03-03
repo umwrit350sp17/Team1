@@ -2,11 +2,11 @@
 
 ## Date Submitted: 
 
-Put your name and the submission date at the top. 
+Submitted on March 5, 2017 by Lauren Anderson, Katrina Dickerson, and Jessica Burros.  
 
 ## Team Accomplishments: 
 
-Summarize in bulleted sentences what the team accomplished in the last week. Include only tangible accomplishments, not work in progress. Again, see status report format 
+* Created teamdocs folder and team respository.
 
 ## Unfinished Tasks: 
 
