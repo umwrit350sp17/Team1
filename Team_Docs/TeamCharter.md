@@ -23,7 +23,9 @@
   3. I also hope to become more comfortable with using GitHub as a collaborative platform, because I see myself using it for future projects.
  
 * Jessica
- 
+  1. I hope to obtain a better undertstanding on how Github and Slack work
+  2. I want to improve my communication skills as a collaborative partner
+  3. I will work with my team memberes to collaboratively produce a final product that is well written, well prepared and free of grammatical errors.  
  
 ## Individual Commitment:
 
@@ -31,7 +33,7 @@
 
 * Lauren: I love working with others, especially for creative and collaborative projects such as this one. I have a heavy background in grammar and drafting research papers, so I plan on using all of my knowledge to best help the team to create a well-researched and well-written presentation.
 
-* Jessica:
+* Jessica: As an writer, I look forward to learning collabrative ways to work on a digital assignment. I will use my critical analysis    and thinking skills to ensure this project is compleated on time.While working on this group project I hope to better my written communication skills and learn to work on Github. 
 
 ## Concerns:
 
@@ -44,7 +46,8 @@
   2. I am also concerned about using GitHub. I have taken coding classes at the University before, but I have no experience with GitHub, so I hope that using this platform will not become a burden on our project.
   
 * Jessica
-
+  1. My biggest concern is not being able to understand how Github works. A couple of semesters ago, I dropped a course because it focused heavey on digital programs like this one becase I struggled to understand the software. 
+  2. Another concern of mine is that my teammates and I will lose communication throughout the week because we are depending on the Slack app.
 ## Conflict Resolution:
 If team members cannot reach a compromise regarding a conflict or decision after positive and constructive debate, then the instructor will be informed of the conflict, and will be asked to advise the team members regarding the situation. 
 
