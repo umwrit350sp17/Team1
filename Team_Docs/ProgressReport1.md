@@ -20,8 +20,8 @@ Submitted on March 5, 2017 by Lauren Anderson, Katrina Dickerson, and Jessica Bu
 
 ## Group Problems: 
 
-Describe any difficulties your team is experiencing, whether technical, personal, or interpersonal. Describe any ideas or plans you have for addressing these problems. 
+*A few of us have not been receiving message notifications from Slack, which hinders communication. However, the impact is minimal, as it does not impede the completion of work.
 
 ## Late Status Reports: 
 
-List any team members who did not check in or report individual status.  
+*N/A
