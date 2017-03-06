@@ -2,7 +2,7 @@
 
 ## Date Submitted: 
 
-Submitted on March 5, 2017 by Lauren Anderson, Jessica Burros and Katrina Dickerson  
+Submitted on March 5, 2017 by Lauren Anderson, Katrina Dickerson and Jessica Burros 
 
 ## Team Accomplishments: 
 
