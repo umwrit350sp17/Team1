@@ -3,7 +3,7 @@
 This file contains the analysis of the audience for the document as well as the general outline of the project. 
 
 ## Audience Profile
-John Smith in the Writing 100 class at the University of Mississippi during the fall 2018 semester will have had few, if any, opportunities to explore open-source word processors. Throughout high school, he will have mostly used Microsoft Office, WordPad, or Google Docs to compose his academic documents. Entering college, John Smith realizes that while these word processors are still effective at composing documents, he finds himself becoming increasingly distracted by the internet and outside sources on his computer. 
+John Smith in the Writing 101 class at the University of Mississippi during the fall 2018 semester will have had few, if any, opportunities to explore open-source word processors. Throughout high school, he will have mostly used Microsoft Office, WordPad, or Google Docs to compose his academic documents. Entering college, John Smith realizes that while these word processors are still effective at composing documents, he finds himself becoming increasingly distracted by the internet and outside sources on his computer. 
 
 John Smith is not new to technology. He has a grasp on how to run and operate Mac and Windows systems, though he might not have ever used an OS such as Linux/Ubuntu. Additionally, John Smith may not have a computer of his own, and may need to use a computer available to him at the university’s lab or library. With that in mind, he will need a program that can either run on a Mac or a Windows PC. 
 
