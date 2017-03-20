@@ -22,4 +22,4 @@ Submitted on March 19, 2017 by Lauren Anderson, Katrina Dickerson and Jessica Bu
 
 ## Late Status Reports: 
 
-*N/A
+*Neither Katrina nor Jessica checked in with the group this week.
