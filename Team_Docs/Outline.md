@@ -24,6 +24,7 @@ John Smith – of the millennial generation – prefers visual-heavy infographic
 •	Document will be introduced through a short and informative file that describes the uses of FocusWriter, and how John Smith would benefit from it.
 
 •	The names of prospective files, and the order of their presentation, follows:
+
 Prospective Files:
 1.	How to download and install FocusWriter
 2.	How to create and start a new document
