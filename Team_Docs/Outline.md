@@ -29,7 +29,7 @@ Prospective Files:
 1.	How to download and install FocusWriter
 2.	How to create and start a new document
 3.	How to change font style and size
-4.	How to format paragraphs and margins
+4.	How to set text alignment, how to bold and italicize text
 5.	How to use spell-check
 6.	How to set “goals” and use word-count
 7.	How to change FocusWriter themes
