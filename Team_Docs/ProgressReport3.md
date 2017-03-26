@@ -6,7 +6,7 @@ Submitted on March 26, 2017 by Lauren Anderson, Katrina Dickerson and Jessica Bu
 
 ## Team Accomplishments: 
 
-* Created "assests" folders for our project including "Introduction" and "Section 1". 
+* Created "assets" folders for our project. 
 * Created our first draft of our project.
 
 ## Unfinished Tasks: 
@@ -19,8 +19,8 @@ Submitted on March 26, 2017 by Lauren Anderson, Katrina Dickerson and Jessica Bu
 
 ## Group Problems: 
 
-*
+*N/A
 
 ## Late Status Reports: 
 
-*
+*N/A
