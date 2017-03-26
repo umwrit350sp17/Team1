@@ -5,7 +5,8 @@ FocusWriter's unique, borderless theme allows one to focus entirely on the page.
 
 The focus of this project is on how one would get started in using FocusWriter. In the following files, one will learn how to download and install FocusWriter, how to create documents in FocusWriter, how to open these documents in other word processors, and how to perform other FocusWriter tasks.
 
-We hope that, with the use of the instructions included in the following files, that FocusWriter may quickly become your go-to wordprocessor for all of your academic needs.
+We hope that, with the use of the instructions included in the following files, that FocusWriter may quickly become your go-to word processor for all of your academic needs.
 
 Thank you!
-Lauren, Katrina, and Jessica.
+
+-Lauren, Katrina, and Jessica.
