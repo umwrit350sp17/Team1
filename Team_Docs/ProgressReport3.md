@@ -19,8 +19,8 @@ Submitted on March 26, 2017 by Lauren Anderson, Katrina Dickerson and Jessica Bu
 
 ## Group Problems: 
 
-*N/A
+*Figuring out how to upload Assets and include them in our instructables. 
 
 ## Late Status Reports: 
 
-*N/A
+*All work is on schedule.
