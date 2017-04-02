@@ -1,3 +1,4 @@
+# How to Change FocusWriter Themes
 **Step 1** - Open up a FocusWriter file
 ![picture1](Assets/7.1.png)
 
