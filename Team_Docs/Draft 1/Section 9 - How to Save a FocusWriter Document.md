@@ -1,4 +1,4 @@
-
+# How to Save a FocusWriter Document
 **Step 1** - To want to "save" a document, you should first have typed something into it! Go ahead and type anything into your new document!
 ![picture1](Assets/9.1.png)
 
