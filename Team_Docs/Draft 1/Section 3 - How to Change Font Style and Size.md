@@ -1,5 +1,5 @@
 # How to Change Font Style and Size
-Step 1 - To change the font style, size, and color in your document, clip on the pallet painter button, (or themes) on the toolbar.
+Step 1 - To change the font style, size, and color in your document, clip on the pallet painter button, (or Themes) on the toolbar.
 
 
 ![piceditfont1](Assets/Screenshot%202017-03-26%2015.41.01.png)
@@ -7,10 +7,12 @@ Step 1 - To change the font style, size, and color in your document, clip on the
 
 Step 2 - The themes window will appear. Choose your theme, and then click the duplicate button.
 
+
 ![piceditfont2](Assets/Screenshot%202017-03-26%2015.42.17.png)
 
 
 Step 3 - The custom tab will open. Then click edit. Here you can change your fonts color, style, and size.
+
 
 ![piceditfont3](Assets/Screenshot%202017-03-26%2015.43.43.png)
 
