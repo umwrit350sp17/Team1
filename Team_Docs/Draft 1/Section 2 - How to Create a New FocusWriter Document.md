@@ -1,4 +1,4 @@
-
+# How to Create a New FocusWriter Document
 **Step 1** - To create and start a new document, open FocusWriter. It should automatically open a new blank document, and you are ready to start typing!
 
 
