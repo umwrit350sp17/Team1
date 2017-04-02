@@ -1,4 +1,4 @@
-
+# How to Export FocusWriter Documents
 **Step 1** - Using your FocusWriter documents in other word-processors, such as Microsoft Word (used in the example below) is very simple! First, open up your new word processor.
 ![picture1](Assets/10.png)
 
