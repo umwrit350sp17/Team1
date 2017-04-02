@@ -1,4 +1,4 @@
-
+# How to Manage Files and Sessions in FocusWriter
 **Step 1** - Mouse over the "file" section at the top left-hand corner of the screen, and mouse over the "sessions" tab near the bottom.
 ![picture1](Assets/8.png)
 
