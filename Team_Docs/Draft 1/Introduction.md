@@ -16,6 +16,7 @@ These files are organized into 10 sections, numbered 1-9.2, with "9.2" (How to E
 7. "How to Change FocusWriter Themes"
 8. "How to Manage Files and Sessions in FocusWriter"
 9. "How to Save a FocusWriter Document"
+
 9.2 "How to export FocusWriter Documents"
 
 We hope that, with the use of the instructions included in the following files, FocusWriter may quickly become your go-to word processor for all of your academic and drafting needs.
