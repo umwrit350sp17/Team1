@@ -7,25 +7,25 @@ The focus of this project is on how one would get started in using FocusWriter. 
 
 These files are organized into 10 sections, numbered 1-9.2, with "9.2" (How to Export FocusWriter Documents) being an extension of section "9" (How to Save a FocusWriter Document). The sections are as follows:
 
-[1. How to Download and Install FocusWriter](Section 1 - How to Download and Install FocusWriter.md)
+[1. How to Download and Install FocusWriter](Section%201%20-%20How%20to%20Download%20and%20Install%20FocusWriter.md)
 
-[2. How to Create a New FocusWriter Document](Section 2 - How to Create a New FocusWriter Document.md)
+[2. How to Create a New FocusWriter Document](Section%202%20-%20How%20to%20Create%20a%20New%20FocusWriter%20Document.md)
 
-[3. How to Change Font Style and Size](Section 3 - How to Change Font Style and SIze.md)
+[3. How to Change Font Style and Size](Section%203%20-%20How%20to%20Change%20Font%20Style%20and%20Size.md)
 
-[4. How to Set Text Alignment, Bold, and Italicize Text](Section 4 - How to Set Text Alignment, Bold, and Italicize Text.md)
+[4. How to Set Text Alignment, Bold, and Italicize Text](Section%204%20-%20How%20to%20Set%20Text%20Alignment%2C%20Bold%2C%20and%20Italicize%20Text.md)
 
-[5. How to Use FocusWriter's Spell-Check](Section 5 - How to use FocusWriter's Spell-Check.md)
+[5. How to Use FocusWriter's Spell-Check](Section%205%20-%20How%20to%20use%20FocusWriter's%20Spell-Check.md)
 
-[6. How to Set 'Goals' and View Word-Count](Section 6 - How to Set "Goals" and View Word-Count.md)
+[6. How to Set 'Goals' and View Word-Count](Section%206%20-%20How%20to%20Set%20%22Goals%22%20and%20View%20Word-Count.md)
 
-[7. How to Change FocusWriter Themes](Section 7 - How to Change FocusWriter Themes.md)
+[7. How to Change FocusWriter Themes](Section%207%20-%20How%20to%20Change%20FocusWriter%20Themes.md)
 
-[8. How to Manage Files and Sessions in FocusWriter](Section 8 - How to Manage Files and Sessions in FocusWriter.md)
+[8. How to Manage Files and Sessions in FocusWriter](Section%208%20-%20How%20to%20Manage%20Files%20and%20Sessions%20in%20FocusWriter.md)
 
-[9. How to Save a FocusWriter Document](Section 9 - How to Save a FocusWriter Document.md)
+[9. How to Save a FocusWriter Document](Section%209%20-%20How%20to%20Save%20a%20FocusWriter%20Document.md)
 
-[9.2. How to export FocusWriter Documents](Section 9.2 - How to export FocusWriter Documents.md)
+[9.2. How to export FocusWriter Documents](Section%209.2%20-%20How%20to%20export%20FocusWriter%20Documents.md)
 
 We hope that, with the use of the instructions included in the following files, FocusWriter may quickly become your go-to word processor for all of your academic and drafting needs.
 
